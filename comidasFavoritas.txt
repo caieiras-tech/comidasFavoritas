@@ -1,3 +1,5 @@
 Arroz
 Feijão
+Tacos
+Burrito
 Lasanha
