@@ -4,3 +4,4 @@ Tacos
 Burrito
 feijuca
 Lasanha
+salsicha alemã
